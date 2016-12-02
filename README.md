@@ -8,14 +8,23 @@ freshman year. I converted to Physics in my sophomore year. I love
 mathematics and physics. Specifically, I love Abstract Algebra,
 Topology, L.D. Landau, and Statistical Physics.
 
-Here you will find:
+**My research interests**
 
-- My [C.V.](https://github.com/we-taper/Me/blob/master/CHX-CV.pdf)
+* Condensed Matter Theory
+* Topology
+* Statistical Mechanics
+* Biophysics.
+
+**Here you can find:**
+
+- [x] My [C.V.](https://github.com/we-taper/Me/blob/master/CHX-CV.pdf)
     (Last update: Dec 2, 2016)
-- My research interests: Condensed Matter Theory, Topology,
-  Statistical Mechanics, Biophysics
+- [ ] My previous works (TBD)  <!--- TODO   -->
+
+**Links:**
+
+- My Drafts: [https://github.com/we-taper/Draft](https://github.com/we-taper/Draft)
 - My blog: [we-taper.github.io](http://we-taper.github.io/)
-- [x] My previous works (TBD)  <!--- TODO   -->
 
 ## Why not use Github pages
 
