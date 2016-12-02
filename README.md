@@ -1,17 +1,20 @@
 # Me
-This is Taper's personal website.
+This is Taper's personal website. My real name is Chen Hongxiang
+(陈鸿翔).
 
-I am now a U.G. in SUSTech (formerly SUSTC) in mainland China. I
-studied Computer Science in my freshman year. I converted to Physics
-in my sophomore year. I love mathematics and physics. Specifically, I
-love Abstract Algebra, L.D. Landau, and Statistical Physics.
+I am now an undergrad in [SUSTech](http://www.sustc.edu.cn/en)
+(formerly SUSTC) in mainland China.  I studied Computer Science in my
+freshman year. I converted to Physics in my sophomore year. I love
+mathematics and physics. Specifically, I love Abstract Algebra,
+Topology, L.D. Landau, and Statistical Physics.
 
 Here you will find:
 
-- [ ] My C.V. (TBD)  <!--- TODO   -->
-- [ ] My research interests (TBD) <!--- TODO -->
+- My C.V.
+- My research interests: Condensed Matter Theory, Topology,
+  Statistical Mechanics, Biophysics
+- My blog: [we-taper.github.io](http://we-taper.github.io/)
 - [ ] My previous works (TBD)  <!--- TODO   -->
-- [ ] My blog posts (TBD)  <!--- TODO   -->
 
 ## Why not use Github pages
 
@@ -21,7 +24,7 @@ the idea of this.
 
 I create this website out of a Github repository because:
 
-  1. Every website essentially follows a tree-like hierarchy, unless
+  1. Every personal website essentially follows a tree-like hierarchy, unless
      one wants some interaction.
   2. Directory is one plain but perfect representation of any
      tree-like hierarchy.
